@@ -89,7 +89,7 @@ terraform.tfvars
 .*.sw*
 
 # Ignore bin folder
-# /bin/
+/bin/
 
 # Coverage report
 /coverage.txt
